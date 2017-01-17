@@ -1,5 +1,5 @@
 __author__ = "Rudra Pratap"
-__date__ = "$6 Jun, 2016 4:04:29 PM$"
+__date__ = "$17 Jan, 2017 4:00:00 PM$"
 
 """
 	This file will collect the samples from Vt and submit to detux
